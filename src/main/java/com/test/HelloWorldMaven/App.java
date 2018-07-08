@@ -16,5 +16,9 @@ public class App
         System.out.println( "JASMIN PADALIA" );
         System.out.println( "JASMIN PADALIA" );
         System.out.println( "JASMIN PADALIA" );
+
+        System.out.println( "Khageshri" );
+        System.out.println( "Khageshri" );
+        System.out.println( "Khageshri" );
     }
 }
